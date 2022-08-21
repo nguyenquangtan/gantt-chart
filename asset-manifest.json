@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/gantt-chart/static/js/main.cd326fe7.js",
+    "index.html": "/gantt-chart/index.html",
+    "main.cd326fe7.js.map": "/gantt-chart/static/js/main.cd326fe7.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.cd326fe7.js"
+  ]
+}
